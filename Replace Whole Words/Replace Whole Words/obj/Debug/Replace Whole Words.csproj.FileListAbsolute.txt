@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\bin\Debug\Replace Whole Words.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\bin\Debug\Replace Whole Words.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\bin\Debug\Replace Whole Words.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\obj\Debug\Replace Whole Words.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\obj\Debug\Replace Whole Words.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Whole Words\Replace Whole Words\obj\Debug\Replace Whole Words.pdb

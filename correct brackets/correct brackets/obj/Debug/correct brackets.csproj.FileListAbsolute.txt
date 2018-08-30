@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\correct brackets\correct brackets\bin\Debug\correct brackets.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\correct brackets\correct brackets\bin\Debug\correct brackets.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\correct brackets\correct brackets\bin\Debug\correct brackets.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\correct brackets\correct brackets\obj\Debug\correct brackets.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\correct brackets\correct brackets\obj\Debug\correct brackets.pdb

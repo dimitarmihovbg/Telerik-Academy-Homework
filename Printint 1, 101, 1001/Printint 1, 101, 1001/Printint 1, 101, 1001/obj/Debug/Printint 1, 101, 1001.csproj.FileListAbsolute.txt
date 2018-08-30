@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Printint 1, 101, 1001\Printint 1, 101, 1001\Printint 1, 101, 1001\bin\Debug\Printint 1, 101, 1001.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Printint 1, 101, 1001\Printint 1, 101, 1001\Printint 1, 101, 1001\bin\Debug\Printint 1, 101, 1001.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Printint 1, 101, 1001\Printint 1, 101, 1001\Printint 1, 101, 1001\bin\Debug\Printint 1, 101, 1001.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Printint 1, 101, 1001\Printint 1, 101, 1001\Printint 1, 101, 1001\obj\Debug\Printint 1, 101, 1001.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Printint 1, 101, 1001\Printint 1, 101, 1001\Printint 1, 101, 1001\obj\Debug\Printint 1, 101, 1001.pdb

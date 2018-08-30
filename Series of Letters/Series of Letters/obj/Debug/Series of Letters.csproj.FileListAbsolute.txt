@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Series of Letters\Series of Letters\bin\Debug\Series of Letters.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Series of Letters\Series of Letters\bin\Debug\Series of Letters.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Series of Letters\Series of Letters\bin\Debug\Series of Letters.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Series of Letters\Series of Letters\obj\Debug\Series of Letters.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Series of Letters\Series of Letters\obj\Debug\Series of Letters.pdb

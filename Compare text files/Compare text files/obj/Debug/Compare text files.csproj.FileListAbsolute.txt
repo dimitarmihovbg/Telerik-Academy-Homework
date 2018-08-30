@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\bin\Debug\Compare text files.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\bin\Debug\Compare text files.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\bin\Debug\Compare text files.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\obj\Debug\Compare text files.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\obj\Debug\Compare text files.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Compare text files\Compare text files\obj\Debug\Compare text files.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\bin\Debug\the tree of life from WoW.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\bin\Debug\the tree of life from WoW.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\bin\Debug\the tree of life from WoW.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\obj\Debug\the tree of life from WoW.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\obj\Debug\the tree of life from WoW.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\bin\Debug\the tree of life from WoW.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\obj\Debug\the tree of life from WoW.exe
+C:\Users\mitac\Desktop\Visual Studio Files\three of life\the tree of life from WoW\the tree of life from WoW\obj\Debug\the tree of life from WoW.pdb

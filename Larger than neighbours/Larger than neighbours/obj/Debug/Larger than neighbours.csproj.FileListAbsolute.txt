@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\bin\Debug\Larger than neighbours.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\bin\Debug\Larger than neighbours.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\bin\Debug\Larger than neighbours.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\obj\Debug\Larger than neighbours.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\obj\Debug\Larger than neighbours.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Larger than neighbours\Larger than neighbours\obj\Debug\Larger than neighbours.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Score\Score\Score\bin\Debug\Score.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Score\Score\Score\bin\Debug\Score.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Score\Score\Score\bin\Debug\Score.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Score\Score\Score\obj\Debug\Score.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Score\Score\Score\obj\Debug\Score.pdb

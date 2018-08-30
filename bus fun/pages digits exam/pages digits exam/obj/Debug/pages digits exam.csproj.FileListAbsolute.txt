@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\pages digits exam\pages digits exam\bin\Debug\pages digits exam.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\pages digits exam\pages digits exam\bin\Debug\pages digits exam.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\pages digits exam\pages digits exam\bin\Debug\pages digits exam.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\pages digits exam\pages digits exam\obj\Debug\pages digits exam.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\pages digits exam\pages digits exam\obj\Debug\pages digits exam.pdb

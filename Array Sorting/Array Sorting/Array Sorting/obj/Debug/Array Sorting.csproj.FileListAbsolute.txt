@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\bin\Debug\Array Sorting.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\bin\Debug\Array Sorting.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\bin\Debug\Array Sorting.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\obj\Debug\Array Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\obj\Debug\Array Sorting.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Array Sorting\Array Sorting\Array Sorting\obj\Debug\Array Sorting.pdb

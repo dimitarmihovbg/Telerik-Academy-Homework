@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\fillmatrix2\fillmatrix2\bin\Debug\fillmatrix2.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\fillmatrix2\fillmatrix2\bin\Debug\fillmatrix2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\fillmatrix2\fillmatrix2\bin\Debug\fillmatrix2.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\fillmatrix2\fillmatrix2\obj\Debug\fillmatrix2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\fillmatrix2\fillmatrix2\obj\Debug\fillmatrix2.pdb

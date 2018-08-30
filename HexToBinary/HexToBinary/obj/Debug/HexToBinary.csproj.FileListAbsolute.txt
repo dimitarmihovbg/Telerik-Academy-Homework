@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\bin\Debug\HexToBinary.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\bin\Debug\HexToBinary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\bin\Debug\HexToBinary.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\obj\Debug\HexToBinary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\obj\Debug\HexToBinary.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToBinary\HexToBinary\obj\Debug\HexToBinary.csprojResolveAssemblyReference.cache

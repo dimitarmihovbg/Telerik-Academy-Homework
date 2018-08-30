@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\DecToHex\DecToHex\bin\Debug\DecToHex.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\DecToHex\DecToHex\bin\Debug\DecToHex.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\DecToHex\DecToHex\bin\Debug\DecToHex.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\DecToHex\DecToHex\obj\Debug\DecToHex.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\DecToHex\DecToHex\obj\Debug\DecToHex.pdb

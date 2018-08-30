@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\bin\Debug\letters count.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\bin\Debug\letters count.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\bin\Debug\letters count.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\obj\Debug\letters count.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\obj\Debug\letters count.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\letters count\letters count\obj\Debug\letters count.pdb

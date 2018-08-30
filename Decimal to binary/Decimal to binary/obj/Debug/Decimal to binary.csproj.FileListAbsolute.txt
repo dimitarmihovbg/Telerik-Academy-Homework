@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\bin\Debug\Decimal to binary.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\bin\Debug\Decimal to binary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\bin\Debug\Decimal to binary.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\obj\Debug\Decimal to binary.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\obj\Debug\Decimal to binary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Decimal to binary\Decimal to binary\obj\Debug\Decimal to binary.pdb

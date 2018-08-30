@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\bin\Debug\RectangleMagic.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\bin\Debug\RectangleMagic.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\bin\Debug\RectangleMagic.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\obj\Debug\RectangleMagic.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\obj\Debug\RectangleMagic.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\RectangleMagic\RectangleMagic\RectangleMagic\obj\Debug\RectangleMagic.pdb

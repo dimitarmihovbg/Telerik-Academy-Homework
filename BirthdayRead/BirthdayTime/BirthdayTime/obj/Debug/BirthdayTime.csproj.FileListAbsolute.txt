@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\BirthdayRead\BirthdayTime\BirthdayTime\bin\Debug\BirthdayTime.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\BirthdayRead\BirthdayTime\BirthdayTime\bin\Debug\BirthdayTime.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\BirthdayRead\BirthdayTime\BirthdayTime\bin\Debug\BirthdayTime.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\BirthdayRead\BirthdayTime\BirthdayTime\obj\Debug\BirthdayTime.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\BirthdayRead\BirthdayTime\BirthdayTime\obj\Debug\BirthdayTime.pdb

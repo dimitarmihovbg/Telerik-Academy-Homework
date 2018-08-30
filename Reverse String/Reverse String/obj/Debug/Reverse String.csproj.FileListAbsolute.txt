@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\obj\Debug\Reverse String.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Reverse String\Reverse String\obj\Debug\Reverse String.pdb

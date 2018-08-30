@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sort 3 numbers\sort 3 numbers\sort 3 numbers\bin\Debug\sort 3 numbers.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sort 3 numbers\sort 3 numbers\sort 3 numbers\bin\Debug\sort 3 numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sort 3 numbers\sort 3 numbers\sort 3 numbers\bin\Debug\sort 3 numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sort 3 numbers\sort 3 numbers\sort 3 numbers\obj\Debug\sort 3 numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sort 3 numbers\sort 3 numbers\sort 3 numbers\obj\Debug\sort 3 numbers.pdb

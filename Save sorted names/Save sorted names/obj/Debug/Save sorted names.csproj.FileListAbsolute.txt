@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\bin\Debug\Save sorted names.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\bin\Debug\Save sorted names.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\bin\Debug\Save sorted names.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\obj\Debug\Save sorted names.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\obj\Debug\Save sorted names.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Save sorted names\Save sorted names\obj\Debug\Save sorted names.pdb

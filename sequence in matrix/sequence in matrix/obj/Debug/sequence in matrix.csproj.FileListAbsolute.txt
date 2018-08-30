@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\bin\Debug\sequence in matrix.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\bin\Debug\sequence in matrix.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\bin\Debug\sequence in matrix.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\obj\Debug\sequence in matrix.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\obj\Debug\sequence in matrix.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\sequence in matrix\sequence in matrix\obj\Debug\sequence in matrix.pdb

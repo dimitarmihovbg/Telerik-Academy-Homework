@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\bin\Debug\max sum of sequence 3.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\bin\Debug\max sum of sequence 3.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\bin\Debug\max sum of sequence 3.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\obj\Debug\max sum of sequence 3.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\obj\Debug\max sum of sequence 3.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sym of sequence 3\max sum of sequence 3\max sum of sequence 3\obj\Debug\max sum of sequence 3.pdb

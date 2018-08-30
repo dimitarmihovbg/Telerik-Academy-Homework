@@ -1,0 +1,13 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.pdb
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.exe.config
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.exe
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\bin\Debug\Square root exeption handling.pdb
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.csprojResolveAssemblyReference.cache
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.csproj.CoreCompileInputs.cache
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.exe
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\BACK-END\C# ADVANCED COURSE\New folder\Square root exeption handling\Square root exeption handling\obj\Debug\Square root exeption handling.pdb

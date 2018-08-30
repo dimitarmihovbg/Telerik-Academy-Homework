@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\bin\Debug\birds exam.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\bin\Debug\birds exam.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\bin\Debug\birds exam.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\obj\Debug\birds exam.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\obj\Debug\birds exam.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\birds exam\birds exam\birds exam\obj\Debug\birds exam.pdb

@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\prefix test\prefix test\bin\Debug\prefix test.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\prefix test\prefix test\bin\Debug\prefix test.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\prefix test\prefix test\bin\Debug\prefix test.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\prefix test\prefix test\obj\Debug\prefix test.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\prefix test\prefix test\obj\Debug\prefix test.pdb

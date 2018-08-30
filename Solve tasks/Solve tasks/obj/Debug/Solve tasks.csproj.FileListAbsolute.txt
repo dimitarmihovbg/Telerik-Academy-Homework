@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\bin\Debug\Solve tasks.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\bin\Debug\Solve tasks.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\bin\Debug\Solve tasks.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\obj\Debug\Solve tasks.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\obj\Debug\Solve tasks.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Solve tasks\Solve tasks\obj\Debug\Solve tasks.pdb

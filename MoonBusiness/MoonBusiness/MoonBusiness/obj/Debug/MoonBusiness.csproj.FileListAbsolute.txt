@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\bin\Debug\MoonBusiness.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\obj\Debug\MoonBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\bin\Debug\MoonBusiness.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\bin\Debug\MoonBusiness.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\obj\Debug\MoonBusiness.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\MoonBusiness\MoonBusiness\MoonBusiness\obj\Debug\MoonBusiness.pdb

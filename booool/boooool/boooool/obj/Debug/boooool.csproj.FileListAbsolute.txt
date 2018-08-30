@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\booool\boooool\boooool\bin\Debug\boooool.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\booool\boooool\boooool\bin\Debug\boooool.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\booool\boooool\boooool\bin\Debug\boooool.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\booool\boooool\boooool\obj\Debug\boooool.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\booool\boooool\boooool\obj\Debug\boooool.pdb

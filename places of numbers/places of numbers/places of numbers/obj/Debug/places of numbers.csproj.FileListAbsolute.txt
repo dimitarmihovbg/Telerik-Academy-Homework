@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\bin\Debug\places of numbers.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\bin\Debug\places of numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\bin\Debug\places of numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\obj\Debug\places of numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\obj\Debug\places of numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\places of numbers\places of numbers\places of numbers\obj\Debug\places of numbers.pdb

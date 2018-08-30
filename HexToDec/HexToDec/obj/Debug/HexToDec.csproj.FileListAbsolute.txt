@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToDec\HexToDec\bin\Debug\HexToDec.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToDec\HexToDec\bin\Debug\HexToDec.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToDec\HexToDec\bin\Debug\HexToDec.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToDec\HexToDec\obj\Debug\HexToDec.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\HexToDec\HexToDec\obj\Debug\HexToDec.pdb

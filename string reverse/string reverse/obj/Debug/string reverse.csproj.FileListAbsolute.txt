@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\string reverse\string reverse\bin\Debug\string reverse.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\string reverse\string reverse\bin\Debug\string reverse.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\string reverse\string reverse\bin\Debug\string reverse.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\string reverse\string reverse\obj\Debug\string reverse.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\string reverse\string reverse\obj\Debug\string reverse.pdb

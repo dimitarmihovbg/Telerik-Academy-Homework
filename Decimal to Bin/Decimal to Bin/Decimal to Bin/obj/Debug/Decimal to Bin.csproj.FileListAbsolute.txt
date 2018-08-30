@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\bin\Debug\Decimal to Bin.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\bin\Debug\Decimal to Bin.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\bin\Debug\Decimal to Bin.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\obj\Debug\Decimal to Bin.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\obj\Debug\Decimal to Bin.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Decimal to Bin\Decimal to Bin\Decimal to Bin\obj\Debug\Decimal to Bin.pdb

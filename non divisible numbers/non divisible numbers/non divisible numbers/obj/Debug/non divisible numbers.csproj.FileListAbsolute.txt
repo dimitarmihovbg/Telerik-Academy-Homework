@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\non divisible numbers\non divisible numbers\non divisible numbers\bin\Debug\non divisible numbers.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\non divisible numbers\non divisible numbers\non divisible numbers\bin\Debug\non divisible numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\non divisible numbers\non divisible numbers\non divisible numbers\bin\Debug\non divisible numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\non divisible numbers\non divisible numbers\non divisible numbers\obj\Debug\non divisible numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\non divisible numbers\non divisible numbers\non divisible numbers\obj\Debug\non divisible numbers.pdb

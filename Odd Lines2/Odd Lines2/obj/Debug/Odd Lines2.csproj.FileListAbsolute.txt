@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd Lines2\Odd Lines2\bin\Debug\Odd Lines2.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd Lines2\Odd Lines2\bin\Debug\Odd Lines2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd Lines2\Odd Lines2\bin\Debug\Odd Lines2.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd Lines2\Odd Lines2\obj\Debug\Odd Lines2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd Lines2\Odd Lines2\obj\Debug\Odd Lines2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\bin\Debug\remove elements from array.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\bin\Debug\remove elements from array.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\bin\Debug\remove elements from array.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\obj\Debug\remove elements from array.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\obj\Debug\remove elements from array.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\remove elements from array\remove elements from array\remove elements from array\obj\Debug\remove elements from array.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by sides and angl\triangle surface by sides and angl\bin\Debug\triangle surface by sides and angl.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by sides and angl\triangle surface by sides and angl\bin\Debug\triangle surface by sides and angl.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by sides and angl\triangle surface by sides and angl\bin\Debug\triangle surface by sides and angl.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by sides and angl\triangle surface by sides and angl\obj\Debug\triangle surface by sides and angl.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by sides and angl\triangle surface by sides and angl\obj\Debug\triangle surface by sides and angl.pdb

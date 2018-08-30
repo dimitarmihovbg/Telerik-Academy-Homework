@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Float or double\float or double\float or double\bin\Debug\float or double.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Float or double\float or double\float or double\bin\Debug\float or double.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Float or double\float or double\float or double\bin\Debug\float or double.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Float or double\float or double\float or double\obj\Debug\float or double.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Float or double\float or double\float or double\obj\Debug\float or double.pdb

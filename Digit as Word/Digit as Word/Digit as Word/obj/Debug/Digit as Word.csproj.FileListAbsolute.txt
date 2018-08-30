@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\bin\Debug\Digit as Word.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\bin\Debug\Digit as Word.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\bin\Debug\Digit as Word.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\obj\Debug\Digit as Word.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\obj\Debug\Digit as Word.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Digit as Word\Digit as Word\Digit as Word\obj\Debug\Digit as Word.pdb

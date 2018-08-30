@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\bin\Debug\maximal sequence.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\obj\Debug\maximal sequence.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\bin\Debug\maximal sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\bin\Debug\maximal sequence.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\obj\Debug\maximal sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\obj\Debug\maximal sequence.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\bin\Debug\maximal sequence.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\obj\Debug\maximal sequence.exe
+C:\Users\mitac\Desktop\Visual Studio Files\maximal sequence\maximal sequence\maximal sequence\obj\Debug\maximal sequence.pdb

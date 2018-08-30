@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EnglishWordMethod\EnglishWordMethod\bin\Debug\EnglishWordMethod.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EnglishWordMethod\EnglishWordMethod\bin\Debug\EnglishWordMethod.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EnglishWordMethod\EnglishWordMethod\bin\Debug\EnglishWordMethod.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EnglishWordMethod\EnglishWordMethod\obj\Debug\EnglishWordMethod.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EnglishWordMethod\EnglishWordMethod\obj\Debug\EnglishWordMethod.pdb

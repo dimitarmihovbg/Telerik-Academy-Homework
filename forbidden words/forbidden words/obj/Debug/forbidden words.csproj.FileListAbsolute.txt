@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\forbidden words\forbidden words\bin\Debug\forbidden words.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\forbidden words\forbidden words\bin\Debug\forbidden words.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\forbidden words\forbidden words\bin\Debug\forbidden words.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\forbidden words\forbidden words\obj\Debug\forbidden words.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\forbidden words\forbidden words\obj\Debug\forbidden words.pdb

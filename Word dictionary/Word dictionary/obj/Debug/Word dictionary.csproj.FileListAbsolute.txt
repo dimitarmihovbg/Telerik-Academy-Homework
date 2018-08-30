@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\bin\Debug\Word dictionary.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\bin\Debug\Word dictionary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\bin\Debug\Word dictionary.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\obj\Debug\Word dictionary.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\obj\Debug\Word dictionary.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Word dictionary\Word dictionary\obj\Debug\Word dictionary.pdb

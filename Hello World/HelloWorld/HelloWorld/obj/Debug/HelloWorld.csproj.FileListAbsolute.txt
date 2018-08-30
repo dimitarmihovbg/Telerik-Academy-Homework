@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

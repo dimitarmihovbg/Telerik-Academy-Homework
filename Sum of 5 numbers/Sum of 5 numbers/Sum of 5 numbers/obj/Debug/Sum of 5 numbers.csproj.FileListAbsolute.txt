@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of 5 numbers\Sum of 5 numbers\Sum of 5 numbers\bin\Debug\Sum of 5 numbers.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of 5 numbers\Sum of 5 numbers\Sum of 5 numbers\bin\Debug\Sum of 5 numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of 5 numbers\Sum of 5 numbers\Sum of 5 numbers\bin\Debug\Sum of 5 numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of 5 numbers\Sum of 5 numbers\Sum of 5 numbers\obj\Debug\Sum of 5 numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of 5 numbers\Sum of 5 numbers\Sum of 5 numbers\obj\Debug\Sum of 5 numbers.pdb

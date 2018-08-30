@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\bin\Debug\Maximal area sum.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\bin\Debug\Maximal area sum.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\bin\Debug\Maximal area sum.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\obj\Debug\Maximal area sum.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\obj\Debug\Maximal area sum.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Maximal area sum\Maximal area sum\obj\Debug\Maximal area sum.csprojResolveAssemblyReference.cache

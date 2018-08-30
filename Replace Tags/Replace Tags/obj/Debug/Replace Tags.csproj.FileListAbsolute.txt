@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Tags\Replace Tags\bin\Debug\Replace Tags.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Tags\Replace Tags\bin\Debug\Replace Tags.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Tags\Replace Tags\bin\Debug\Replace Tags.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Tags\Replace Tags\obj\Debug\Replace Tags.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Tags\Replace Tags\obj\Debug\Replace Tags.pdb

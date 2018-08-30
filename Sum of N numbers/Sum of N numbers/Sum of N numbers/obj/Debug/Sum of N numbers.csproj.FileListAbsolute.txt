@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\bin\Debug\Sum of N numbers.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\bin\Debug\Sum of N numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\bin\Debug\Sum of N numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\obj\Debug\Sum of N numbers.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\obj\Debug\Sum of N numbers.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\obj\Debug\Sum of N numbers.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\bin\Debug\Sum of N numbers.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\obj\Debug\Sum of N numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\Sum of N numbers\Sum of N numbers\Sum of N numbers\obj\Debug\Sum of N numbers.pdb

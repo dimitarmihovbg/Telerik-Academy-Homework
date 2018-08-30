@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Duplicates\Duplicates\Duplicates\bin\Debug\Duplicates.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Duplicates\Duplicates\Duplicates\bin\Debug\Duplicates.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Duplicates\Duplicates\Duplicates\bin\Debug\Duplicates.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Duplicates\Duplicates\Duplicates\obj\Debug\Duplicates.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Duplicates\Duplicates\Duplicates\obj\Debug\Duplicates.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\letters index\letters index\letters index\bin\Debug\letters index.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\letters index\letters index\letters index\bin\Debug\letters index.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\letters index\letters index\letters index\bin\Debug\letters index.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\letters index\letters index\letters index\obj\Debug\letters index.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\letters index\letters index\letters index\obj\Debug\letters index.pdb

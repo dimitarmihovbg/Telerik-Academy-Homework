@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\bin\Debug\Extract text from HTML.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\bin\Debug\Extract text from HTML.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\bin\Debug\Extract text from HTML.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\obj\Debug\Extract text from HTML.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\obj\Debug\Extract text from HTML.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract text from HTML\Extract text from HTML\obj\Debug\Extract text from HTML.pdb

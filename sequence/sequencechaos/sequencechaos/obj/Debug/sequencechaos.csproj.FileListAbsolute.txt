@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence\sequencechaos\sequencechaos\bin\Debug\sequencechaos.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence\sequencechaos\sequencechaos\bin\Debug\sequencechaos.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence\sequencechaos\sequencechaos\bin\Debug\sequencechaos.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence\sequencechaos\sequencechaos\obj\Debug\sequencechaos.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence\sequencechaos\sequencechaos\obj\Debug\sequencechaos.pdb

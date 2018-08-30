@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\binary search\BINARY SEARCH\BINARY SEARCH\bin\Debug\BINARY SEARCH.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\binary search\BINARY SEARCH\BINARY SEARCH\bin\Debug\BINARY SEARCH.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\binary search\BINARY SEARCH\BINARY SEARCH\bin\Debug\BINARY SEARCH.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\binary search\BINARY SEARCH\BINARY SEARCH\obj\Debug\BINARY SEARCH.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\binary search\BINARY SEARCH\BINARY SEARCH\obj\Debug\BINARY SEARCH.pdb

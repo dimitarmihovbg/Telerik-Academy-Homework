@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\от 1 до 1000\1 to 1000\1 to 1000\bin\Debug\1 to 1000.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\от 1 до 1000\1 to 1000\1 to 1000\bin\Debug\1 to 1000.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\от 1 до 1000\1 to 1000\1 to 1000\bin\Debug\1 to 1000.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\от 1 до 1000\1 to 1000\1 to 1000\obj\Debug\1 to 1000.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\от 1 до 1000\1 to 1000\1 to 1000\obj\Debug\1 to 1000.pdb

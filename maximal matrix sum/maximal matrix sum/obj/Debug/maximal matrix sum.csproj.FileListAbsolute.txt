@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\bin\Debug\maximal matrix sum.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\bin\Debug\maximal matrix sum.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\bin\Debug\maximal matrix sum.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\obj\Debug\maximal matrix sum.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\obj\Debug\maximal matrix sum.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\maximal matrix sum\maximal matrix sum\obj\Debug\maximal matrix sum.pdb

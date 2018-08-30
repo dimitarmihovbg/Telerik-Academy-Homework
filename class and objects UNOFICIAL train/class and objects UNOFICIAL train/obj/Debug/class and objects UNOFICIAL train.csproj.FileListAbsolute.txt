@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\bin\Debug\class and objects UNOFICIAL train.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\bin\Debug\class and objects UNOFICIAL train.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\bin\Debug\class and objects UNOFICIAL train.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\obj\Debug\class and objects UNOFICIAL train.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\obj\Debug\class and objects UNOFICIAL train.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\class and objects UNOFICIAL train\class and objects UNOFICIAL train\obj\Debug\class and objects UNOFICIAL train.pdb

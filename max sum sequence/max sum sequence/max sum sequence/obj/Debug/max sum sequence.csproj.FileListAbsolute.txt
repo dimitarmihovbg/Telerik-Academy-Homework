@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\bin\Debug\max sum sequence.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\bin\Debug\max sum sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\bin\Debug\max sum sequence.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\obj\Debug\max sum sequence.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\obj\Debug\max sum sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\max sum sequence\max sum sequence\max sum sequence\obj\Debug\max sum sequence.pdb

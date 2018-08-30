@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\bin\Debug\method for Hello Name.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\bin\Debug\method for Hello Name.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\bin\Debug\method for Hello Name.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\obj\Debug\method for Hello Name.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\obj\Debug\method for Hello Name.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\method for Hello Name\method for Hello Name\obj\Debug\method for Hello Name.pdb

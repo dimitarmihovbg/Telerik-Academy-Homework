@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\ArraysN\Arrays Compare\Arrays Compare\bin\Debug\Arrays Compare.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\ArraysN\Arrays Compare\Arrays Compare\bin\Debug\Arrays Compare.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\ArraysN\Arrays Compare\Arrays Compare\bin\Debug\Arrays Compare.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\ArraysN\Arrays Compare\Arrays Compare\obj\Debug\Arrays Compare.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\ArraysN\Arrays Compare\Arrays Compare\obj\Debug\Arrays Compare.pdb

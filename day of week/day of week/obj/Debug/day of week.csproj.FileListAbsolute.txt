@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\bin\Debug\day of week.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\bin\Debug\day of week.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\bin\Debug\day of week.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\obj\Debug\day of week.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\obj\Debug\day of week.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\day of week\day of week\obj\Debug\day of week.csprojResolveAssemblyReference.cache

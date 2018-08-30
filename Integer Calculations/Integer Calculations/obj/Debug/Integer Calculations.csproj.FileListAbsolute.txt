@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\bin\Debug\Integer Calculations.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\bin\Debug\Integer Calculations.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\bin\Debug\Integer Calculations.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\obj\Debug\Integer Calculations.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\obj\Debug\Integer Calculations.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Integer Calculations\Integer Calculations\obj\Debug\Integer Calculations.pdb

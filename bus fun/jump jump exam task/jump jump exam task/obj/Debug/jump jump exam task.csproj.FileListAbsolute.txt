@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\bin\Debug\jump jump exam task.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\bin\Debug\jump jump exam task.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\bin\Debug\jump jump exam task.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\obj\Debug\jump jump exam task.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\obj\Debug\jump jump exam task.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\bus fun\jump jump exam task\jump jump exam task\obj\Debug\jump jump exam task.pdb

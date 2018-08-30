@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\bin\Debug\extract from XML.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\bin\Debug\extract from XML.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\bin\Debug\extract from XML.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\obj\Debug\extract from XML.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\obj\Debug\extract from XML.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract from XML\extract from XML\obj\Debug\extract from XML.pdb

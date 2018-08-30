@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\bin\Debug\sequence sum.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\bin\Debug\sequence sum.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\bin\Debug\sequence sum.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\obj\Debug\sequence sum.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\obj\Debug\sequence sum.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\sequence sum\sequence sum\sequence sum\obj\Debug\sequence sum.pdb

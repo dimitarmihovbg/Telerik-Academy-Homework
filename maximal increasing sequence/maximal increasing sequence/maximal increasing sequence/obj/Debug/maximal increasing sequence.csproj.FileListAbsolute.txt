@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal increasing sequence\maximal increasing sequence\maximal increasing sequence\bin\Debug\maximal increasing sequence.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal increasing sequence\maximal increasing sequence\maximal increasing sequence\bin\Debug\maximal increasing sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal increasing sequence\maximal increasing sequence\maximal increasing sequence\bin\Debug\maximal increasing sequence.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal increasing sequence\maximal increasing sequence\maximal increasing sequence\obj\Debug\maximal increasing sequence.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal increasing sequence\maximal increasing sequence\maximal increasing sequence\obj\Debug\maximal increasing sequence.pdb

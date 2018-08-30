@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\bin\Debug\GCD.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\bin\Debug\GCD.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\bin\Debug\GCD.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\obj\Debug\GCD.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\gcd\GCD\GCD\obj\Debug\GCD.pdb

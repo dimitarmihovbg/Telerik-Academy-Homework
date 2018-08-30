@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\bin\Debug\ReadFileContents.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\bin\Debug\ReadFileContents.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\bin\Debug\ReadFileContents.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\obj\Debug\ReadFileContents.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\obj\Debug\ReadFileContents.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\ReadFileContents\ReadFileContents\obj\Debug\ReadFileContents.pdb

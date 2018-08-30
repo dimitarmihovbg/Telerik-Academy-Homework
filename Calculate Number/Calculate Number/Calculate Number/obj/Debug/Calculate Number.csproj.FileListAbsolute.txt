@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate Number\Calculate Number\Calculate Number\bin\Debug\Calculate Number.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate Number\Calculate Number\Calculate Number\bin\Debug\Calculate Number.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate Number\Calculate Number\Calculate Number\bin\Debug\Calculate Number.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate Number\Calculate Number\Calculate Number\obj\Debug\Calculate Number.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate Number\Calculate Number\Calculate Number\obj\Debug\Calculate Number.pdb

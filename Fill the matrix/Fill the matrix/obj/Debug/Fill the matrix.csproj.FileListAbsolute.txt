@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\bin\Debug\Fill the matrix.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\bin\Debug\Fill the matrix.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\bin\Debug\Fill the matrix.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\obj\Debug\Fill the matrix.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\obj\Debug\Fill the matrix.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Fill the matrix\Fill the matrix\obj\Debug\Fill the matrix.pdb

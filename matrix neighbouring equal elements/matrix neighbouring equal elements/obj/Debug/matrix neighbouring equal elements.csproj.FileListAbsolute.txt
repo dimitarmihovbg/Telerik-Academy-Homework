@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\bin\Debug\matrix neighbouring equal elements.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\bin\Debug\matrix neighbouring equal elements.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\bin\Debug\matrix neighbouring equal elements.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\obj\Debug\matrix neighbouring equal elements.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\obj\Debug\matrix neighbouring equal elements.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\matrix neighbouring equal elements\matrix neighbouring equal elements\obj\Debug\matrix neighbouring equal elements.pdb

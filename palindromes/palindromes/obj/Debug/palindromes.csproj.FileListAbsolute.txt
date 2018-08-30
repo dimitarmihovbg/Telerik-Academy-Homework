@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\palindromes\palindromes\bin\Debug\palindromes.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\palindromes\palindromes\bin\Debug\palindromes.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\palindromes\palindromes\bin\Debug\palindromes.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\palindromes\palindromes\obj\Debug\palindromes.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\palindromes\palindromes\obj\Debug\palindromes.pdb

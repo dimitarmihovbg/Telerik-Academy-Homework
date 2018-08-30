@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\employee data\employeeData\employeeData\bin\Debug\employeeData.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\employee data\employeeData\employeeData\bin\Debug\employeeData.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\employee data\employeeData\employeeData\bin\Debug\employeeData.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\employee data\employeeData\employeeData\obj\Debug\employeeData.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\employee data\employeeData\employeeData\obj\Debug\employeeData.pdb

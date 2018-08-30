@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\bin\Debug\Sum integers.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\bin\Debug\Sum integers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\bin\Debug\Sum integers.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\obj\Debug\Sum integers.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\obj\Debug\Sum integers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Sum integers\Sum integers\obj\Debug\Sum integers.pdb

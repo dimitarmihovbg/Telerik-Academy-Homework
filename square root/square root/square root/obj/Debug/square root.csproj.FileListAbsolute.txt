@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\square root\square root\square root\bin\Debug\square root.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\square root\square root\square root\bin\Debug\square root.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\square root\square root\square root\bin\Debug\square root.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\square root\square root\square root\obj\Debug\square root.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\square root\square root\square root\obj\Debug\square root.pdb

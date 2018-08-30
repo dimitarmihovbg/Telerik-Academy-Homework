@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\bin\Debug\decimal to hex.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\bin\Debug\decimal to hex.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\bin\Debug\decimal to hex.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\obj\Debug\decimal to hex.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\obj\Debug\decimal to hex.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\decimal to hex\decimal to hex\decimal to hex\obj\Debug\decimal to hex.pdb

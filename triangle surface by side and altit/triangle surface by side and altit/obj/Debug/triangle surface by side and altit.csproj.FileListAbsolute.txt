@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\bin\Debug\triangle surface by side and altit.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\bin\Debug\triangle surface by side and altit.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\bin\Debug\triangle surface by side and altit.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\obj\Debug\triangle surface by side and altit.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\obj\Debug\triangle surface by side and altit.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by side and altit\triangle surface by side and altit\obj\Debug\triangle surface by side and altit.pdb

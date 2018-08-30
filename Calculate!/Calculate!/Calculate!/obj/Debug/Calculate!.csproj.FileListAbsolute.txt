@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\bin\Debug\Calculate!.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\bin\Debug\Calculate!.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\bin\Debug\Calculate!.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\obj\Debug\Calculate!.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\obj\Debug\Calculate!.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Calculate!\Calculate!\Calculate!\obj\Debug\Calculate!.csprojResolveAssemblyReference.cache

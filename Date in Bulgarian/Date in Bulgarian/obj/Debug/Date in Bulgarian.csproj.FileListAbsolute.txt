@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\bin\Debug\Date in Bulgarian.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\bin\Debug\Date in Bulgarian.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\bin\Debug\Date in Bulgarian.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\obj\Debug\Date in Bulgarian.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\obj\Debug\Date in Bulgarian.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Date in Bulgarian\Date in Bulgarian\obj\Debug\Date in Bulgarian.pdb

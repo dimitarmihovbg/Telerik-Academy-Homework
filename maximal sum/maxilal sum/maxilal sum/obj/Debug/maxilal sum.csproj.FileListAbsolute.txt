@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sum\maxilal sum\maxilal sum\bin\Debug\maxilal sum.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sum\maxilal sum\maxilal sum\bin\Debug\maxilal sum.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sum\maxilal sum\maxilal sum\bin\Debug\maxilal sum.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sum\maxilal sum\maxilal sum\obj\Debug\maxilal sum.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\maximal sum\maxilal sum\maxilal sum\obj\Debug\maxilal sum.pdb

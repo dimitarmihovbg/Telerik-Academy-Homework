@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by three sides\triangle surface by three sides\bin\Debug\triangle surface by three sides.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by three sides\triangle surface by three sides\bin\Debug\triangle surface by three sides.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by three sides\triangle surface by three sides\bin\Debug\triangle surface by three sides.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by three sides\triangle surface by three sides\obj\Debug\triangle surface by three sides.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\triangle surface by three sides\triangle surface by three sides\obj\Debug\triangle surface by three sides.pdb

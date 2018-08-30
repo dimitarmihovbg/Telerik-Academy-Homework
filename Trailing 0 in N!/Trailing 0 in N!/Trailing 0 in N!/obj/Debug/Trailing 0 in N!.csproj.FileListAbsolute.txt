@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Trailing 0 in N!\Trailing 0 in N!\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.pdb

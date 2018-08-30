@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\random numbers\random numbers\bin\Debug\random numbers.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\random numbers\random numbers\bin\Debug\random numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\random numbers\random numbers\bin\Debug\random numbers.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\random numbers\random numbers\obj\Debug\random numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\random numbers\random numbers\obj\Debug\random numbers.pdb

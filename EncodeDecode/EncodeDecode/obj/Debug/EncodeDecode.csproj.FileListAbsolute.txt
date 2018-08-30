@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.pdb

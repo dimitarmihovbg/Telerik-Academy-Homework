@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Sub Strings\Replace Sub Strings\bin\Debug\Replace Sub Strings.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Sub Strings\Replace Sub Strings\bin\Debug\Replace Sub Strings.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Sub Strings\Replace Sub Strings\bin\Debug\Replace Sub Strings.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Sub Strings\Replace Sub Strings\obj\Debug\Replace Sub Strings.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Replace Sub Strings\Replace Sub Strings\obj\Debug\Replace Sub Strings.pdb

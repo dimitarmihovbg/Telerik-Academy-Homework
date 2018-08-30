@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\bin\Debug\Extract sentences.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\bin\Debug\Extract sentences.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\bin\Debug\Extract sentences.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\obj\Debug\Extract sentences.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\obj\Debug\Extract sentences.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Extract sentences\Extract sentences\obj\Debug\Extract sentences.pdb

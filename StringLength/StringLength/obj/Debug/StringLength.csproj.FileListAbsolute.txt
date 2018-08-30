@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\StringLength\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\StringLength\StringLength\bin\Debug\StringLength.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\StringLength\StringLength\bin\Debug\StringLength.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\StringLength\StringLength\obj\Debug\StringLength.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\StringLength\StringLength\obj\Debug\StringLength.pdb

@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract emails\extract emails\bin\Debug\extract emails.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract emails\extract emails\bin\Debug\extract emails.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract emails\extract emails\bin\Debug\extract emails.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract emails\extract emails\obj\Debug\extract emails.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\extract emails\extract emails\obj\Debug\extract emails.pdb

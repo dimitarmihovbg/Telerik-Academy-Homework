@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sieve of Eratostenes\Sieve of Eratostenes\Sieve of Eratostenes\bin\Debug\Sieve of Eratostenes.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sieve of Eratostenes\Sieve of Eratostenes\Sieve of Eratostenes\bin\Debug\Sieve of Eratostenes.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sieve of Eratostenes\Sieve of Eratostenes\Sieve of Eratostenes\bin\Debug\Sieve of Eratostenes.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sieve of Eratostenes\Sieve of Eratostenes\Sieve of Eratostenes\obj\Debug\Sieve of Eratostenes.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Sieve of Eratostenes\Sieve of Eratostenes\Sieve of Eratostenes\obj\Debug\Sieve of Eratostenes.pdb

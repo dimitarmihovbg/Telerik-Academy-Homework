@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\arithmetical expressions\arithmetical expressions\bin\Debug\arithmetical expressions.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\arithmetical expressions\arithmetical expressions\bin\Debug\arithmetical expressions.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\arithmetical expressions\arithmetical expressions\bin\Debug\arithmetical expressions.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\arithmetical expressions\arithmetical expressions\obj\Debug\arithmetical expressions.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\arithmetical expressions\arithmetical expressions\obj\Debug\arithmetical expressions.pdb

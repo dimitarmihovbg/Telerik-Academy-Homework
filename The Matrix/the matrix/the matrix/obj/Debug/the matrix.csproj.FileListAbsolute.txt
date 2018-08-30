@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Matrix\the matrix\the matrix\bin\Debug\the matrix.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Matrix\the matrix\the matrix\bin\Debug\the matrix.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Matrix\the matrix\the matrix\bin\Debug\the matrix.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Matrix\the matrix\the matrix\obj\Debug\the matrix.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Matrix\the matrix\the matrix\obj\Debug\the matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\bin\Debug\Enter numbers exception handling.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\bin\Debug\Enter numbers exception handling.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\bin\Debug\Enter numbers exception handling.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\obj\Debug\Enter numbers exception handling.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\obj\Debug\Enter numbers exception handling.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Enter numbers exception handling\Enter numbers exception handling\obj\Debug\Enter numbers exception handling.pdb

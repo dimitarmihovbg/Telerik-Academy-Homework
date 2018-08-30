@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\bin\Debug\define variables.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\obj\Debug\define variables.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\bin\Debug\define variables.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\bin\Debug\define variables.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\obj\Debug\define variables.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Define variables\define variables\define variables\define variables\define variables\obj\Debug\define variables.pdb

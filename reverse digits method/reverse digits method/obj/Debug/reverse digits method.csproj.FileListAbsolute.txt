@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\reverse digits method\reverse digits method\bin\Debug\reverse digits method.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\reverse digits method\reverse digits method\bin\Debug\reverse digits method.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\reverse digits method\reverse digits method\bin\Debug\reverse digits method.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\reverse digits method\reverse digits method\obj\Debug\reverse digits method.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\reverse digits method\reverse digits method\obj\Debug\reverse digits method.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\FirstLastName\FirstLastName\FirstLastName\bin\Debug\FirstLastName.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\FirstLastName\FirstLastName\FirstLastName\bin\Debug\FirstLastName.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\FirstLastName\FirstLastName\FirstLastName\bin\Debug\FirstLastName.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\FirstLastName\FirstLastName\FirstLastName\obj\Debug\FirstLastName.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\FirstLastName\FirstLastName\FirstLastName\obj\Debug\FirstLastName.pdb

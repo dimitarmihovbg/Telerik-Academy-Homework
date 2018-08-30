@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\change\fist exchange\fist exchange\bin\Debug\fist exchange.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\change\fist exchange\fist exchange\bin\Debug\fist exchange.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\change\fist exchange\fist exchange\bin\Debug\fist exchange.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\change\fist exchange\fist exchange\obj\Debug\fist exchange.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\change\fist exchange\fist exchange\obj\Debug\fist exchange.pdb

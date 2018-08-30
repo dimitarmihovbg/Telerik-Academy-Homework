@@ -1,0 +1,12 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.pdb
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.exe.config
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.exe
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\bin\Debug\enter numbers 2.pdb
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.csprojResolveAssemblyReference.cache
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.csproj.CoreCompileInputs.cache
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.exe
+C:\Important Storage\Visual Studio Files\Visual Studio HOMEWORK\Back-End\enter numbers 2\enter numbers 2\obj\Debug\enter numbers 2.pdb

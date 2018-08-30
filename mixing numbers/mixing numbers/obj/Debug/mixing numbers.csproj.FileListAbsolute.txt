@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\bin\Debug\mixing numbers.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\bin\Debug\mixing numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\bin\Debug\mixing numbers.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\obj\Debug\mixing numbers.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\obj\Debug\mixing numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\mixing numbers\mixing numbers\obj\Debug\mixing numbers.pdb

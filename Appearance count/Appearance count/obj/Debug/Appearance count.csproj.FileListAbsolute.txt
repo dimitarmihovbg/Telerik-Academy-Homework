@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\bin\Debug\Appearance count.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\bin\Debug\Appearance count.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\bin\Debug\Appearance count.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\obj\Debug\Appearance count.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\obj\Debug\Appearance count.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Appearance count\Appearance count\obj\Debug\Appearance count.pdb

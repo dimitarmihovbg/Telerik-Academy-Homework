@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Delete Odd Lines from same file\Delete Odd Lines from same file\bin\Debug\Delete Odd Lines from same file.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Delete Odd Lines from same file\Delete Odd Lines from same file\bin\Debug\Delete Odd Lines from same file.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Delete Odd Lines from same file\Delete Odd Lines from same file\bin\Debug\Delete Odd Lines from same file.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Delete Odd Lines from same file\Delete Odd Lines from same file\obj\Debug\Delete Odd Lines from same file.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Delete Odd Lines from same file\Delete Odd Lines from same file\obj\Debug\Delete Odd Lines from same file.pdb

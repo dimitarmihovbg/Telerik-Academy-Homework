@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\bin\Debug\the Zeros.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\bin\Debug\the Zeros.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\bin\Debug\the Zeros.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\obj\Debug\the Zeros.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\obj\Debug\the Zeros.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\The Zeros\the Zeros\the Zeros\obj\Debug\the Zeros.pdb

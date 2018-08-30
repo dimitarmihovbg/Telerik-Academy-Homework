@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\bin\Debug\print a deck 2.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\bin\Debug\print a deck 2.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\bin\Debug\print a deck 2.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\obj\Debug\print a deck 2.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\obj\Debug\print a deck 2.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\obj\Debug\print a deck 2.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\bin\Debug\print a deck 2.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\obj\Debug\print a deck 2.exe
+C:\Users\mitac\Desktop\Visual Studio Files\Print a deck 2\print a deck 2\print a deck 2\obj\Debug\print a deck 2.pdb

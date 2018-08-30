@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\obj\Debug\Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Comparing Floats\Comparing Floats\Comparing Floats\obj\Debug\Comparing Floats.pdb

@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Binary to Decimal\Binary to Decimal\bin\Debug\Binary to Decimal.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Binary to Decimal\Binary to Decimal\bin\Debug\Binary to Decimal.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Binary to Decimal\Binary to Decimal\bin\Debug\Binary to Decimal.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Binary to Decimal\Binary to Decimal\obj\Debug\Binary to Decimal.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Binary to Decimal\Binary to Decimal\obj\Debug\Binary to Decimal.pdb

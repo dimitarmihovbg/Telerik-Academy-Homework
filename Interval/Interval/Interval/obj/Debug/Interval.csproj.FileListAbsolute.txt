@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Interval\Interval\Interval\bin\Debug\Interval.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Interval\Interval\Interval\bin\Debug\Interval.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Interval\Interval\Interval\bin\Debug\Interval.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Interval\Interval\Interval\obj\Debug\Interval.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Interval\Interval\Interval\obj\Debug\Interval.pdb

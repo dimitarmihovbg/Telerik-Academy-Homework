@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\bin\Debug\hidden message.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\bin\Debug\hidden message.exe
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\bin\Debug\hidden message.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\obj\Debug\hidden message.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\obj\Debug\hidden message.exe
+C:\Users\mitac\Desktop\Visual Studio Files\hidden message\hidden message\obj\Debug\hidden message.pdb

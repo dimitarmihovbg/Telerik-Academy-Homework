@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Unicode Characters\Unicode Characters\obj\Debug\Unicode Characters.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Unicode Characters\Unicode Characters\obj\Debug\Unicode Characters.pdb

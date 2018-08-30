@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse URL\Parse URL\bin\Debug\Parse URL.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse URL\Parse URL\bin\Debug\Parse URL.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse URL\Parse URL\bin\Debug\Parse URL.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse URL\Parse URL\obj\Debug\Parse URL.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse URL\Parse URL\obj\Debug\Parse URL.pdb

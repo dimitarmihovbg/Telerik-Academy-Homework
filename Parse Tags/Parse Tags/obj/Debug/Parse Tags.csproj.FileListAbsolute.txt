@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\bin\Debug\Parse Tags.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\bin\Debug\Parse Tags.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\bin\Debug\Parse Tags.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\obj\Debug\Parse Tags.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\obj\Debug\Parse Tags.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Parse Tags\Parse Tags\obj\Debug\Parse Tags.pdb

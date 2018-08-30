@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print my Name\Print my Name\Print my Name\bin\Debug\Print my Name.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print my Name\Print my Name\Print my Name\bin\Debug\Print my Name.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print my Name\Print my Name\Print my Name\bin\Debug\Print my Name.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print my Name\Print my Name\Print my Name\obj\Debug\Print my Name.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Print my Name\Print my Name\Print my Name\obj\Debug\Print my Name.pdb

@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\bin\Debug\Odd lines.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\bin\Debug\Odd lines.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\bin\Debug\Odd lines.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\obj\Debug\Odd lines.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\obj\Debug\Odd lines.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Odd lines\Odd lines\obj\Debug\Odd lines.pdb

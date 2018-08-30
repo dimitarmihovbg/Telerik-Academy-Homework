@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\circle\circle\circle\bin\Debug\circle.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\circle\circle\circle\bin\Debug\circle.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\circle\circle\circle\bin\Debug\circle.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\circle\circle\circle\obj\Debug\circle.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\circle\circle\circle\obj\Debug\circle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\Reformatting\Reformatting\Reformatting\bin\Debug\Reformatting.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\Reformatting\Reformatting\Reformatting\bin\Debug\Reformatting.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Reformatting\Reformatting\Reformatting\bin\Debug\Reformatting.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\Reformatting\Reformatting\Reformatting\obj\Debug\Reformatting.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\Reformatting\Reformatting\Reformatting\obj\Debug\Reformatting.pdb

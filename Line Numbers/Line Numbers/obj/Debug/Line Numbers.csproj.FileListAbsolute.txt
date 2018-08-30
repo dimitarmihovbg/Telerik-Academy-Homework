@@ -1,0 +1,5 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Line Numbers\Line Numbers\bin\Debug\Line Numbers.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Line Numbers\Line Numbers\bin\Debug\Line Numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Line Numbers\Line Numbers\bin\Debug\Line Numbers.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Line Numbers\Line Numbers\obj\Debug\Line Numbers.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Line Numbers\Line Numbers\obj\Debug\Line Numbers.pdb

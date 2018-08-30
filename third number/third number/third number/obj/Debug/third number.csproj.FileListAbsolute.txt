@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\bin\Debug\third number.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\bin\Debug\third number.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\bin\Debug\third number.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\obj\Debug\third number.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\obj\Debug\third number.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\third number\third number\third number\obj\Debug\third number.pdb

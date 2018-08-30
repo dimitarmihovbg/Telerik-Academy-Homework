@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\hexaWHAT\hexawhat\hexawhat\bin\Debug\hexawhat.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\hexaWHAT\hexawhat\hexawhat\bin\Debug\hexawhat.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\hexaWHAT\hexawhat\hexawhat\bin\Debug\hexawhat.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\hexaWHAT\hexawhat\hexawhat\obj\Debug\hexawhat.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\hexaWHAT\hexawhat\hexawhat\obj\Debug\hexawhat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\bin\Debug\MMSA.exe.config
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\bin\Debug\MMSA.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\bin\Debug\MMSA.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\obj\Debug\MMSA.exe
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\obj\Debug\MMSA.pdb
+C:\Users\Dimitar\Desktop\Visual Studio Files\MMSA\MMSA\MMSA\obj\Debug\MMSA.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\bin\Debug\Messages From Workshop.exe.config
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\bin\Debug\Messages From Workshop.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\bin\Debug\Messages From Workshop.pdb
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\obj\Debug\Messages From Workshop.csprojResolveAssemblyReference.cache
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\obj\Debug\Messages From Workshop.exe
+C:\Users\mitac\Desktop\Visual Studio Files\C# ADVANCED COURSE\New folder\Messages From Workshop\Messages From Workshop\obj\Debug\Messages From Workshop.pdb
